@@ -3,7 +3,7 @@
 Check out some of our products:
 - TransSocial: https://transs.social
   - A safe place for everyone, regardless of who you are.
-- Meowser: https://studios.katniny.lol/about/luma
+- Kairo: https://studios.katniny.lol/about/kairo
   - A fast, no-BS, private browser.
 
 Everything else we make is available to view on our website: https://studios.katniny.lol/products
